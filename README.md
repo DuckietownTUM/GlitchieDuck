@@ -337,10 +337,9 @@ docker run --device=/dev/kfd --device=/dev/dri --group-add video -p 8080:8080 \
 
 ### **Obstacle Avoidance Protocol**
 1. **STOP** when obstacle detected within 10cm
-2. **LEFT** to position in left lane
+2. **LEFT** to navigate around obstacle
 3. **RIGHT** to navigate around obstacle
-4. **RIGHT** to return to original lane
-5. **FORWARD** to continue navigation
+4. **FORWARD** to continue navigation
 
 
 ## 🔧 **Troubleshooting**
