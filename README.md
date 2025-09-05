@@ -4,7 +4,7 @@
 
 ## 🎯 **Overview**
 
-AutoDuck is an autonomous navigation system that uses Vision Language Models (VLM) to enable Duckiebot robots to navigate complex environments with human-like understanding. The system can detect and avoid obstacles, follow lanes, and make intelligent navigation decisions in real-time.
+AutoDuck/GlitchieDuck is an autonomous navigation system that uses Vision Language Models (VLM) to enable Duckiebot robots to navigate complex environments with human-like understanding. The system can detect and avoid obstacles, follow lanes, and make intelligent navigation decisions in real-time.
 
 ### ✨ **Key Features**
 
