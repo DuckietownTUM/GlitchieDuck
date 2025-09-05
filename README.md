@@ -28,7 +28,7 @@ AutoDuck is an autonomous navigation system that uses Vision Language Models (VL
 
 ```bash
 git clone https://github.com/SupratikPatel/AutoDuck.git
-cd AutoDuck
+cd GlitchieDuck
 
 ```
 
