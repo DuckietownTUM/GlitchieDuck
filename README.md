@@ -1,4 +1,4 @@
-# 🤖 AutoDuck - Vision Language Model for Duckiebot Navigation
+# 🤖 GlitchieDuck - Vision Language Model for Duckiebot Navigation
 
 **Advanced AI-powered autonomous navigation system using Vision Language Models (VLM) for Duckiebot robots.**
 
