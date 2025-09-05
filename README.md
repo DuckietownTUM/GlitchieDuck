@@ -440,6 +440,6 @@ This project is licensed under the Apache-2.0 License - see the LICENSE file for
 - **Qwen Team** for the excellent Vision Language Model
 - **llama.cpp** for the high-performance inference engine
 - **Duckietown** for the autonomous vehicle platform
-- **OpenCV** for computer vision capabilities
+- **HuggingFace** for the amazing AI community 
 
 
